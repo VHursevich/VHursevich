@@ -1,5 +1,6 @@
 ![](assets/Bottom_up.svg)
 
+<!--
 <!--   my-icons -->
 <p align="center">
     <a href="https://github.com/BEPb/BEPb"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
@@ -9,6 +10,7 @@
     <a href="https://github.com/BEPb/BEPb/network/members"><img src="https://img.shields.io/github/forks/BEPb/BEPb.svg?color=blue&logo=github"></a>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=BEPb.BEPb" alt="visitors"/>   
 </p>
+-->
 
 <!--   my-header-img -->
 ![](./src/header_.png)
