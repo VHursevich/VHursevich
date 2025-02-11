@@ -47,7 +47,7 @@
 
 <!--   stats + languages -->
 
-![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=VadimKhurs&theme=radical&layout=compact&hide=) 
+![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=VHursevich&theme=radical&layout=compact&hide=Jupyter+Notebook,CSS) 
 
 
 **📫 How to Reach me:**
